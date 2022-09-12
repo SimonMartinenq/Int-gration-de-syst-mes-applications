@@ -1,4 +1,3 @@
 ActiveMQTemplate
 ================
-Groupe :
-Simon MARTINENQ
+
